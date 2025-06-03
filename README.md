@@ -1,3 +1,3 @@
 # sample_repo
 My name is Jason Kaminski.
-BRANCH 1 ADD
+BRANCH 1 DELETE
